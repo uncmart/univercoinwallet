@@ -1,7 +1,7 @@
 **1. Clone wallet sources**
 
 ```
-git clone https://github.com/uncmart/univercoinwallet
+git clone https://github.com/uncmart/univercoinwallet.git
 ```
 
 **2. Build**
