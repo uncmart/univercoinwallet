@@ -1,0 +1,26 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Univercoin
+GenericName=Univercoin wallet
+Name[uk]=Univercoin
+Name[ru]=Univercoin
+Name[pl]=Univercoin
+Name[be]=Univercoin
+Name[de]=Univercoin
+Name[es]=Univercoin
+Name[pt]=Univercoin
+Comment=Univercoin wallet
+Comment[uk]=Гаманець Univercoin
+Comment[ru]=Кошелек Univercoin
+Comment[pl]=Portfel Univercoin
+Comment[be]=Кашалёк Univercoin
+Comment[de]=Univercoin Brieftasche
+Comment[es]=Univercoin Monedero
+Comment[pt]=Univercoin wallet
+Exec=Univercoin %U
+Terminal=false
+Type=Application
+Icon=karbowanec
+MimeType=x-scheme-handler/karbowanec;
+Categories=Office;Finance;
+Version=1.2.0

@@ -5,6 +5,7 @@ git clone https://github.com/uncmart/univercoinwallet
 ```
 
 **2. Build**
+### On ubuntu 14.04
 
 ```
 mkdir build && cd build && cmake .. && make
@@ -32,7 +33,7 @@ cmake -G "Visual Studio 15 Win64" ..
 And then use MSVC 2017 open "karbowanec.sln", do Build.
 Good luck!
 
-# fix encode problem On Windows:https://msdn.microsoft.com/en-us/library/mt708821.aspx
+fix encode problem On Windows:https://msdn.microsoft.com/en-us/library/mt708821.aspx
 To set this compiler option in the Visual Studio development environment
 Open the project Property Pages dialog box. For more information, see How to: Open Project Property Pages.
 
